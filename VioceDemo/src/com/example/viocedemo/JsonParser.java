@@ -8,7 +8,7 @@ import android.text.TextUtils;
 
 /**
  * 对云端返回的Json结果进行解析
-
+	张现华到此
  */
 public class JsonParser {
 	
